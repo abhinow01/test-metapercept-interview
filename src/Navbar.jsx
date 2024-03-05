@@ -11,7 +11,7 @@ const Navbar = () => {
             <div className='text-lg text-slate-400 px-4 py-4'>About</div>
             <div className='text-lg text-slate-400 px-4 py-4'>Blog</div>
             <div className='text-lg text-slate-400 px-4 py-4'>Contact</div>
-            <div><button className='bg-white border border-blue-400 rounded-md mt-[10px] p-2 text-blue-400'>Button</button></div>
+            <div><button className='bg-white border border-blue-400 rounded-md mt-[10px] p-2 text-blue-400 mr-[10px]'>Button</button></div>
         </div>
 
     </div>
